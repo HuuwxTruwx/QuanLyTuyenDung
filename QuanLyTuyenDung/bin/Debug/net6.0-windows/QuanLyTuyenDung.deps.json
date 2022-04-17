@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuanLyTuyenDung/1.0.0": {
+        "dependencies": {
+          "Krypton.Toolkit": "65.22.4.94"
+        },
+        "runtime": {
+          "QuanLyTuyenDung.dll": {}
+        }
+      },
+      "Krypton.Toolkit/65.22.4.94": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "65.22.4.94",
+            "fileVersion": "65.22.4.94"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuanLyTuyenDung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Krypton.Toolkit/65.22.4.94": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/C/d38IZcWlaNtW8D9yF7Souy3q73WaBI5V2G/vmxn+c6MOGu1l97ZKCFXGe1RU0raBSYAMana1gzGtEs06ddw==",
+      "path": "krypton.toolkit/65.22.4.94",
+      "hashPath": "krypton.toolkit.65.22.4.94.nupkg.sha512"
+    }
+  }
+}
