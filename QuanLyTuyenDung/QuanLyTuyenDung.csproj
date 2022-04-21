@@ -9,6 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NVTuyenDung.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NVTuyenDung.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Krypton.Toolkit" Version="65.22.4.94" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
   </ItemGroup>
