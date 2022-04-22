@@ -13,7 +13,7 @@ namespace QuanLyTuyenDung
     {
         string ConnectionString = "";
         SqlConnection con;
-
+ 
         public void OpenConection()
         {
             con = new SqlConnection(ConnectionString);
