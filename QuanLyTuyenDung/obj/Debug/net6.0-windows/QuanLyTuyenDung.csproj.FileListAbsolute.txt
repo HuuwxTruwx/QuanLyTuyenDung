@@ -23,3 +23,9 @@ D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\obj\Debug\net6.0-windows\QuanLyTuyenDung.F
 D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\obj\Debug\net6.0-windows\QuanLyTuyenDung.FormCongViec.resources
 D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\obj\Debug\net6.0-windows\QuanLyTuyenDung.FormUngVien.resources
 D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\obj\Debug\net6.0-windows\QuanLyTuyenDung.FromTongQuan.resources
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\QuanLyTuyenDung\QuanLyTuyenDung\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

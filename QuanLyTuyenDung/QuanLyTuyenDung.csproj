@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="NVTuyenDung.cs" />
+    <None Include="Model\NVTuyenDung.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,6 +34,11 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="View\" />
   </ItemGroup>
 
 </Project>

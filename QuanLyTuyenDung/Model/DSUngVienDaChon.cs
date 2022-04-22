@@ -21,9 +21,6 @@ namespace QuanLyTuyenDung
         public int IDUngVien1 { get => IDUngVien; set => IDUngVien = value; }
         public int IDnhanVien1 { get => IDnhanVien; set => IDnhanVien = value; }
 
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+       
     }
 }
