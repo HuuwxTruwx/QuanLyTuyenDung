@@ -495,19 +495,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nguye\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\QuanLyTuyenDung\\QuanLyTuyenDung\\QuanLyTuyenDung.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\QuanLyTuyenDung\\QuanLyTuyenDung\\QuanLyTuyenDung.csproj",
       "projectName": "QuanLyTuyenDung",
-      "projectPath": "D:\\C#\\QuanLyTuyenDung\\QuanLyTuyenDung\\QuanLyTuyenDung.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\QuanLyTuyenDung\\QuanLyTuyenDung\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\QuanLyTuyenDung\\QuanLyTuyenDung\\QuanLyTuyenDung.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\QuanLyTuyenDung\\QuanLyTuyenDung\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -560,7 +560,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

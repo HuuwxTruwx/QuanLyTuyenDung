@@ -6,7 +6,7 @@ namespace QuanLyTuyenDung
 {
     class YeuCau
     {
-        private int IDcongViec;
+        private int IDCongViec;
         private string KinhNgiem;
         private string HocVan;
         private string TiengAnh;
@@ -29,7 +29,7 @@ namespace QuanLyTuyenDung
 
         }
 
-        public int IDcongViec1 { get => IDcongViec; set => IDcongViec = value; }
+        public int IDcongViec1 { get => IDCongViec; set => IDCongViec = value; }
         public string KinhNgiem1 { get => KinhNgiem; set => KinhNgiem = value; }
         public string HocVan1 { get => HocVan; set => HocVan = value; }
         public string TiengAnh1 { get => TiengAnh; set => TiengAnh = value; }

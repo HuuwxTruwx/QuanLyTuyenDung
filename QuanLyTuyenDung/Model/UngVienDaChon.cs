@@ -4,12 +4,12 @@ using System.Text;
 
 namespace QuanLyTuyenDung
 {
-    class DSUngVienDaChon
+    class UngVienDaChon
     {
         private int IDcongViec;
         private int IDUngVien;
         private int IDnhanVien;
-        public DSUngVienDaChon(int IDcongViec, int IDUngVien, int IDnhanVien)
+        public UngVienDaChon(int IDcongViec, int IDUngVien, int IDnhanVien)
         {
             this.IDcongViec1 = IDcongViec;
             this.IDnhanVien1 = IDnhanVien;

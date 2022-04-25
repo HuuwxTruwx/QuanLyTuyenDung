@@ -16,7 +16,7 @@ namespace QuanLyTuyenDung
         private string DiaChi;
         private string SDT;
         private string Email;
-        private string HinhAnh;
+        public string HinhAnh { set; get;}
         public UngVien(int IDUngVien,
          string Ten,
          string GioiTinh,
@@ -29,8 +29,21 @@ namespace QuanLyTuyenDung
          string Email,
          string HinhAnh)
         {
+            this.DiaChi = DiaChi;
+            this.Ten = Ten;
+            this.GioiTinh = GioiTinh;
+            this.Tuoi = Tuoi;
+            this.KinhNghiem = KinhNghiem;
+            this.HocVan = HocVan;
+            this.TiengAnh = TiengAnh;
+            this.SDT = SDT;
+            this.Email = Email;
+            this.HinhAnh = HinhAnh;
         }
+           public UngVien()
+        {
 
+        }
         public int IDUngVien1 { get => IDUngVien; set => IDUngVien = value; }
         public string Ten1 { get => Ten; set => Ten = value; }
         public string GioiTinh1 { get => GioiTinh; set => GioiTinh = value; }

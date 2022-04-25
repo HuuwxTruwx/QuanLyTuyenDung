@@ -54,7 +54,7 @@ namespace QuanLyTuyenDung
             pnlNav.Height = buttonUngVien.Height;
             pnlNav.Top = buttonUngVien.Top;
             pnlNav.Left = buttonUngVien.Left;
-            openChildFormInPanel(new FormUngVien());
+            openChildFormInPanel(new FormTest());
         }
 
         private void buttonCongViec_Click(object sender, EventArgs e)

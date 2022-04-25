@@ -10,6 +10,10 @@ namespace QuanLyTuyenDung
         private string Ten;
         private int IDPhongBan;
 
+        public CongViec()
+        {
+        }
+
         public CongViec(int IDcongViec, string Ten, int IDPhongBan)
         {
             this.IDcongViec1 = IDcongViec;
